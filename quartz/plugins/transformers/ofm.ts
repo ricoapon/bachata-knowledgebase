@@ -142,6 +142,7 @@ const tagRegex = new RegExp(
 )
 const blockReferenceRegex = new RegExp(/\^([-_A-Za-z0-9]+)$/g)
 const ytLinkRegex = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/
+const ytStart = /^.*start=(\d+).*/
 const ytPlaylistLinkRegex = /[?&]list=([^#?&]*)/
 const videoExtensionRegex = new RegExp(/\.(mp4|webm|ogg|avi|mov|flv|wmv|mkv|mpg|mpeg|3gp|m4v)$/)
 const wikilinkImageEmbedRegex = new RegExp(
@@ -627,6 +628,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                 const match = node.properties.src.match(ytLinkRegex)
                 const videoId = match && match[2].length == 11 ? match[2] : null
                 const playlistId = node.properties.src.match(ytPlaylistLinkRegex)?.[1]
+                const start = node.properties.src.match(ytStart)?.[1]
                 if (videoId) {
                   // YouTube video (with optional playlist)
                   node.tagName = "iframe"
@@ -636,8 +638,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                     frameborder: 0,
                     width: "600px",
                     src: playlistId
-                      ? `https://www.youtube.com/embed/${videoId}?list=${playlistId}`
-                      : `https://www.youtube.com/embed/${videoId}`,
+                      ? `https://www.youtube.com/embed/${videoId}?list=${playlistId}${start ? `&start=${start}` : ""}`
+                      : `https://www.youtube.com/embed/${videoId}${start ? `?start=${start}` : ""}`,
                   }
                 } else if (playlistId) {
                   // YouTube playlist only.
