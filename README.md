@@ -46,6 +46,12 @@ My own repositories will always be published to GitHub Pages using GitHub Action
 
 See commit `86102740305a5848a505f068e71ae2d0fc426bc3`.
 
+### Use this repository as upstream
+
+Quartz handles upgrading the repository. However, it sets the original repository as upstream. I changed it to use this repository instead.
+
+See `quartz/cli/handlers.js` or commit `68a4567ab7c29152bdb5e914a1b2097213e990ed`
+
 ## Forking
 
 To use my own Quartz repository, follow the normal Quartz instructions but using this repository as a source instead. Afterwards, remove the content of the README up to this line and keep everyting below. Fill in the lines with TODO.
@@ -72,7 +78,7 @@ It uses Quartz. The repository was initialized using [my own template](https://g
 
 To upgrade the repository, executing the following steps:
 
-1. Run `git remote add upstream https://github.com/ricoapon/quartz.git` and `npx quartz update`.
+1. Run `npx quartz update`.
 2. Resolve any conflicts if needed.
 3. Push the changes.
 
