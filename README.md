@@ -72,7 +72,7 @@ It uses Quartz. The repository was initialized using [my own template](https://g
 
 To upgrade the repository, executing the following steps:
 
-1. Run `npx quartz update`.
+1. Run `git remote add upstream https://github.com/ricoapon/quartz.git` and `npx quartz update`.
 2. Resolve any conflicts if needed.
 3. Push the changes.
 
