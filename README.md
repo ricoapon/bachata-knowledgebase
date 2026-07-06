@@ -38,6 +38,14 @@ I want my own layout, so I made the changes I needed to get my own layout.
 
 See `quartz.layout.ts` and `quartz/styles/custom.scss` or commit `3ecea621f5c6fb761cf43a0c69e41e7226d7166b`
 
+### Use custom workflow to deploy to GitHub Pages
+
+The Quartz repository had many files in the `.github` directory, like issue templates and GitHub Actions. I don't need these, so I have deleted the `.github` directory.
+
+My own repositories will always be published to GitHub Pages using GitHub Actions, so I have added a `.github/workflows/deploy-to-gh-pages.yaml` to support this.
+
+See commit `86102740305a5848a505f068e71ae2d0fc426bc3`.
+
 ## Forking
 
 To use my own Quartz repository, follow the normal Quartz instructions but using this repository as a source instead. Afterwards, remove the content of the README up to this line and keep everyting below. Fill in the lines with TODO.
