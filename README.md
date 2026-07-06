@@ -4,6 +4,14 @@ This is a fork of [Quartz](https://github.com/jackyzha0/quartz) with my own chan
 
 Current version: 4.5.2.
 
+## How to update
+
+To update this repository, execute the following steps:
+
+1. Run `npx quartz update` to get the commits from the `v4` branch.
+2. Resolve any conflicts if needed.
+3. Push the changes.
+
 ## My changes
 
 ### Allow start parameter for YouTube embedding
