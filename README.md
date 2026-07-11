@@ -54,7 +54,14 @@ See `quartz/cli/handlers.js` or commit `68a4567ab7c29152bdb5e914a1b2097213e990ed
 
 ## Forking
 
-To use my own Quartz repository, follow the normal Quartz instructions but using this repository as a source instead. Afterwards, remove the content of the README up to this line and keep everyting below. Fill in the lines with TODO.
+To use my own Quartz repository, execute the following steps:
+
+1. Clone this repository using `git clone https://github.com/ricoapon/quartz.git`.
+2. Rename the branch to `main` using `git branch main`.
+3. Update `pageTitle`, `baseUrl` and `colors` in `quartz.config.ts`.
+4. Remove all the `README.md` text until the `TODO` chapter below.
+5. Fill in the repository name and the repository description.
+6. Push changes using `git push origin main`.
 
 # TODO: Your Repository Name
 
