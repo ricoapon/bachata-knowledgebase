@@ -57,7 +57,7 @@ See `quartz/cli/handlers.js` or commit `68a4567ab7c29152bdb5e914a1b2097213e990ed
 To use my own Quartz repository, execute the following steps:
 
 1. Clone this repository using `git clone https://github.com/ricoapon/quartz.git`.
-2. Rename the branch to `main` using `git branch main`.
+2. Rename the branch to `main` using `git checkout -b main`.
 3. Update `pageTitle`, `baseUrl` and `colors` in `quartz.config.ts`.
 4. Remove all the `README.md` text until the `TODO` chapter below.
 5. Fill in the repository name and the repository description.
