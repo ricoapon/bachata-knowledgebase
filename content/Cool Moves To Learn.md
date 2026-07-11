@@ -21,3 +21,7 @@ Some video's with moves that I liked:
 ![YouTube Video](https://youtu.be/gsNsvL7J8Y8?start=20)
 
 ![YouTube Video](https://youtu.be/guMlKoa65JI?start=10)
+
+![YouTube Video](https://youtu.be/Er77WL3pxos)
+
+![YouTube Video](https://youtu.be/826QAkyrXkE?start=418)
