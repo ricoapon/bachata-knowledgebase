@@ -61,7 +61,8 @@ To use my own Quartz repository, execute the following steps:
 3. Update `pageTitle`, `baseUrl` and `colors` in `quartz.config.ts`.
 4. Remove all the `README.md` text until the `TODO` chapter below.
 5. Fill in the repository name and the repository description.
-6. Push changes using `git push origin main`.
+6. Change the remote to your own repository using `git remote set-url origin <NEW_GIT_URL_HERE>`.
+7. Push changes using `git push origin main`.
 
 # TODO: Your Repository Name
 
