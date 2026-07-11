@@ -54,9 +54,10 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
-      }),
+      // Dates are irrelevant for my sites.
+      // Plugin.CreatedModifiedDate({
+      //   priority: ["frontmatter", "git", "filesystem"],
+      // }),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
