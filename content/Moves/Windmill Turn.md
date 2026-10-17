@@ -4,8 +4,6 @@ tags:
   - learned
 ---
 
-You can do an [[Up and Down]], but keep one arm down. Then turn the lady, moving the arms in a sort of windmill motion.
+Turn where the follower does a rotation with the arm that looks like a windmill. You start with throwing the hands down for [[Arms Up]], but keep holding the followers right arm down.
 
-This video doesn't show it as I learned it, because they move one arm down after having both arms up.
-
-![YouTube](https://youtu.be/GSoCVZ5GTeU?start=10)
+![Intermediate 1 Lesson 6](https://youtu.be/nq4FqWhuLkM)
