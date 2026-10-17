@@ -5,7 +5,7 @@ tags:
   - lesson
 ---
 
-In this lesson we learned [[Turn Out Of Shadow]] (see 0:56 in the video).
+In this lesson we learned [[Shadow Turn Prep Into Block Turn]] (see 0:56 in the video).
 
 The video is a dance of many things we have done (with some moves for show that we didn't do yet).
 
