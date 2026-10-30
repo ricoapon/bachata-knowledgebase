@@ -13,7 +13,7 @@ We did:
 
 Then, we did:
 
-- [[Prep Turn Block]]
+- [[Prep Block Turn]]
 - Turn the follower out into a [[Counter Shadow Position]]
 
 ![YouTube Video](https://youtu.be/emGnGR1vzZk)
