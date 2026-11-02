@@ -50,6 +50,14 @@ Impressive to make it so incredibly small.
 
 I don't get how this move works yet. You put the hand of the follower on your shoulder, normally to go into a headroll. But now you turn the follower instead, also turn yourself, leaving the hand there, ending up in a shadow position.
 
+## Double or triple spin
+
+![YouTube Video](https://youtu.be/hTfyAyKrMC0?start=50)
+
+It seems like a spin, but looking at his legs/feet, it is more of a step? Still really impressive.
+
+Also look at timestamp 0:12 for turn alone. Or for 2:30 for another spin together.
+
 # Videos
 
 Some video's with moves that I liked:
