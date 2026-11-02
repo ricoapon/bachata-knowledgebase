@@ -2,6 +2,54 @@
 title: Cool Moves To Learn
 ---
 
+# Moves I can steal
+
+## Hand dance
+
+![YouTube Video](https://youtu.be/HSRAyK2xWw4?start=168)
+
+Funny movement with the hands that is easy to copy!
+
+## Chest isolation
+
+![YouTube Video](https://youtu.be/5OlTrGGP3go?start=52)
+
+Tried it a few times, followers seem to love it!
+
+## Musicality leg twist
+
+![YouTube Video](https://youtu.be/5OlTrGGP3go?start=153)
+
+Fun leg twist, with even highlighting it with the arms. I don't think I can indicate this clearly so the follower will do that too, but who knows!
+
+## Leg thing
+
+![YouTube Video](https://youtu.be/5OlTrGGP3go?start=185)
+
+Highlighting the beat with tapping and legs up and down like that is such a nice little detail.
+
+## Dip
+
+![YouTube Video](https://youtu.be/5OlTrGGP3go?start=196)
+
+Doesn't seem like a social-proof dip, but it could be cool to practise this with somebody.
+
+## Mini-wave
+
+![YouTube Video](https://youtu.be/fbFk-2S9x5s?start=181)
+
+Impressive to make it so incredibly small.
+
+## Double headroll for myself
+
+![YouTube Video](https://youtu.be/X0cqWLHW9vA?start=17)
+
+## Fake headroll and go into turn
+
+![YouTube Video](https://youtu.be/XjL4HcFJr8g?start=155)
+
+I don't get how this move works yet. You put the hand of the follower on your shoulder, normally to go into a headroll. But now you turn the follower instead, also turn yourself, leaving the hand there, ending up in a shadow position.
+
 # Videos
 
 Some video's with moves that I liked:
