@@ -58,6 +58,20 @@ It seems like a spin, but looking at his legs/feet, it is more of a step? Still 
 
 Also look at timestamp 0:12 for turn alone. Or for 2:30 for another spin together.
 
+## Cool musicality
+
+Breath in and out (but you really need to know the song for that):
+
+![YouTube Video](https://youtu.be/X44b4pCBRgc?start=33)
+
+Interesting movements on the beat:
+
+![YouTube Video](https://youtu.be/X44b4pCBRgc?start=137)
+
+## Self-turn in move I already know
+
+![YouTube Video](https://youtu.be/X44b4pCBRgc?start=205)
+
 # Videos
 
 Some video's with moves that I liked:
